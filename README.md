@@ -11,6 +11,7 @@ This project enhances facial images captured in low quality, particularly from C
 - [Code Overview](#code-overview)
 - [License](#license)
 
+![Screenshot 2024-09-27 234509](https://github.com/user-attachments/assets/78485335-6af3-4040-b097-7ce2aa7a75e6)
 ## Features
 
 - **Face Detection**: Utilizes MediaPipe's face detection model to locate faces within images.
